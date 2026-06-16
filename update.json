@@ -1,10 +1,10 @@
 {
-  "version": "1.8.5",
+  "version": "1.8.6",
   "downloadUrl": "https://github.com/vadimstyr/pdfanonymizer-ibf-releases/releases/latest",
+  "installerUrl": "https://github.com/vadimstyr/pdfanonymizer-ibf-releases/releases/download/v1.8.6/PdfAnonymizerIBF_Setup_v1.8.6.exe",
   "changes": [
-    "Update-Dialog mit kurzer Änderungsliste",
-    "Buttons Aktualisieren und Abbrechen",
-    "Versionsnummer unten links auf der Startseite",
-    "Öffentlicher Release-Kanal für Updates"
+    "Update lädt Installer automatisch herunter",
+    "Setup startet nach Download — nur noch Windows bestätigen",
+    "Manifest-Feld installerUrl für direkten Download"
   ]
 }
