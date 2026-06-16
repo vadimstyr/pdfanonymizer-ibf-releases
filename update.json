@@ -1,0 +1,10 @@
+﻿{
+  "version": "1.8.5",
+  "downloadUrl": "https://github.com/vadimstyr/pdfanonymizer-ibf-releases/releases/latest",
+  "changes": [
+    "Update-Dialog mit kurzer Änderungsliste",
+    "Buttons Aktualisieren und Abbrechen",
+    "Versionsnummer unten links auf der Startseite",
+    "Öffentlicher Release-Kanal für Updates"
+  ]
+}
