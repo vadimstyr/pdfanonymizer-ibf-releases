@@ -1,10 +1,10 @@
 {
-  "version": "1.8.7",
+  "version": "1.8.10",
   "downloadUrl": "https://github.com/vadimstyr/pdfanonymizer-ibf-releases/releases/latest",
-  "installerUrl": "https://github.com/vadimstyr/pdfanonymizer-ibf-releases/releases/download/v1.8.7/PdfAnonymizerIBF_Setup_v1.8.7.exe",
+  "installerUrl": "https://github.com/vadimstyr/pdfanonymizer-ibf-releases/releases/download/v1.8.10/PdfAnonymizerIBF_Setup_v1.8.10.exe",
   "changes": [
-    "Versionserkennung korrigiert — keine Update-Schleife mehr",
-    "Anzeige und Update-Check nutzen die echte App-Version",
-    "Assembly-Versionen wieder mit Projektversion synchronisiert"
+    "Login beim Start (IBF / IBF1990!!)",
+    "Passwort verschlüsselt gespeichert",
+    "Update-Check zeigt neue Versionen korrekt an"
   ]
 }
